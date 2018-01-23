@@ -1,5 +1,5 @@
 # DeepAutoencoderGOA
-Deep autoencoder neural networks for Gene Ontology annotation predictions. This sofware uses a deep autoencoder neural network to predict Gene Ontology (GO) annotations
+Deep autoencoder neural networks for Gene Ontology annotation predictions. This Torch lua software trains and applies a deep autoencoder neural network to predict Gene Ontology (GO) annotations.
 
 To run the optimization phase, type:
 
